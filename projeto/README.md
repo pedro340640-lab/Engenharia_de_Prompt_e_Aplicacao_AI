@@ -10,10 +10,16 @@ Vantagens identificadas:
 
 3-A conversa com IA é bem simples e direta, ela consege fazer as edições rápidamente.
 
+
+
 Limitações encontradas:
 1-Ela acaba gerando certas coisas que não foram pedidas, o que pode acabar atrapalhando.
+
 2-Ela acaba gerando erros de código que você precisa explicar e pedir para ela corrigir.
+
 3-Dificuldade de interação com coisas pré criadas como imagens ou códigos
+
+
 
 Reflexão critica:
 A principal dificuldade que eu tive foi corrigir erros que a IA acabava gerando e tirar as coisas a mais que ela fez, para corrigir isso eu refiz o código com mais especificações.
