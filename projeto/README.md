@@ -5,7 +5,9 @@ Motivo da escolha:Foi o que eu achei mais fácil de usar
 
 Vantagens identificadas:
 1-A IA consegue fazer uma grande váriedades de coisa dentro de um só projeto.
+
 2-Ela já usa imagens sem vc precisar upá-las.
+
 3-A conversa com IA é bem simples e direta, ela consege fazer as edições rápidamente.
 
 Limitações encontradas:
