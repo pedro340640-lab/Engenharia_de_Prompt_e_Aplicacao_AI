@@ -4,6 +4,7 @@ Ferramenta escolhida:Bubble
 Motivo da escolha:Foi o que eu achei mais fácil de usar
 
 Vantagens identificadas:
+
 1-A IA consegue fazer uma grande váriedades de coisa dentro de um só projeto.
 
 2-Ela já usa imagens sem vc precisar upá-las.
@@ -13,6 +14,7 @@ Vantagens identificadas:
 
 
 Limitações encontradas:
+
 1-Ela acaba gerando certas coisas que não foram pedidas, o que pode acabar atrapalhando.
 
 2-Ela acaba gerando erros de código que você precisa explicar e pedir para ela corrigir.
