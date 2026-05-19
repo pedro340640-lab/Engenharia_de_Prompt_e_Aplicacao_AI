@@ -11,6 +11,8 @@ Vantagens identificadas:
 
 3-A conversa com IA é bem simples e direta, ela consege fazer as edições rápidamente.
 
+4-Projetotos testes podem ser feitos com mais fácilidade
+
 
 
 Limitações encontradas:
@@ -21,6 +23,7 @@ Limitações encontradas:
 
 3-Dificuldade de interação com coisas pré criadas como imagens ou códigos
 
+4-Dependencia muito alta á AI do site
 
 
 Reflexão critica:
