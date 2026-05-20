@@ -1,3 +1,5 @@
+Feito por Pedro Vítor Sousa Oliveira
+
 Idéia do projeto: criar um site de lembretes com foco em compromisso com outras pessoas, onde o usuário cadastraria a pessoa(o cadastro sere pro usuário er um fácil acesso aos dados da pessoa caso prcise entrar em contato com ela para cancelar ou coisa do tipo, ninguém além d usuário teria acesso a esses dados, seria como a lista de contatos) e poderia criar um lembrete de por exemplo um passeio, então o usuario escolheria como quanto tempo de antecedencia gostaria de ser lembrado, além de eventos únicos o usuário poderia criar eventos recorentes, sejam eles diários, semanais ou mensais, e ele teria diversas opções de dados para o evento, como por exemplo a opção de selecionar o local.
 
 Ferramenta escolhida:Bubble
